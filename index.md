@@ -1,6 +1,6 @@
 # DQ Hub Learning Pathways
 
-Welcome to the learning pathways, belwo are links leading to various areas of our ELearning courses.
+Welcome to the learning pathways, below are links leading to various areas of our ELearning courses.
 
 If you require a Introduction to Data Quality you can launch the course **_HERE_**
 
