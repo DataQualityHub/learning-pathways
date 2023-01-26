@@ -11,4 +11,7 @@ If you want the definition of good practice, try our course 'Introduction to dat
 Or maybe you want to know the importance of communication of Data Quality, view the Article [HERE](define_good_practice_2)
 
 
+Extra line goes here [I am a link](https://www.datacamp.com/)
+
+
 ![image](https://user-images.githubusercontent.com/92517253/194820571-c2390719-b167-4cb2-b336-04ad851cbdec.png)
